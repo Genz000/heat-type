@@ -2,7 +2,11 @@
 
 A single-page tool that turns text or an uploaded SVG/PNG into an animated "thermal" material, built entirely with SVG filters. The UI follows the shadcn design system (zinc tokens, light/dark).
 
-## Run it
+**[Try it in your browser →](https://genz000.github.io/heat-type/)**
+
+Nothing to install and no sign-up. Everything runs locally in the browser. Chrome, Edge or Safari give the best video export.
+
+## Run it locally
 
 No build step. Either open `index.html` directly in Chrome, Safari or Firefox, or serve the folder:
 
