@@ -1,4 +1,4 @@
-# CLAUDE.md — Heat Type
+# CLAUDE.md — Heaterium
 
 Single-file vanilla JS app (`index.html`). No framework, no bundler. Keep it dependency-free unless asked.
 
